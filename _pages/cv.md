@@ -11,27 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Engineering, Software Engineering, VNU University of Engineering and Technology, 2024
+* Bachelor of Engineering, Information Technology, Posts and Telecommunications Institute of Technology, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* March, 2023 – March, 2025: Backend Developer at PiScale
+  <!-- * GitHub University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: The Users -->
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* May, 2021 – March, 2023: Backend Developer at Gapo
+  <!-- * GitHub University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* February, 2019 – May, 2021: Backend Developer at BeetInnovators
+  <!-- * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Supervisor: Professor Git -->
+
+* June, 2018 – January, 2019: Android Developer at Beetsoft
+
+* July, 2016 – May, 2018: Android Developer at BkIT Software
+
+
 Skills
 ======
 * Skill 1
